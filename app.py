@@ -1,1 +1,1 @@
-print("Hi , Welcome")
+print("Hi , Welcome")  # STYLE: Consider removing the extra space after "Hi" for better readability.
